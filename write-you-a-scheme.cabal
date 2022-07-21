@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Lib
+      Lisp.LispVal
   other-modules:
       Paths_write_you_a_scheme
   hs-source-dirs:
