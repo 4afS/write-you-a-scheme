@@ -25,6 +25,8 @@ dependencies:
 - containers > 0.6
 - mtl > 2.2
 - parsec > 3.1
+- hspec > 2
+- neat-interpolation
 
 library:
   source-dirs: src
